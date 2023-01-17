@@ -1,0 +1,15 @@
+
+        .botaoEntrar {
+            background-color: #f48131;
+	        border-radius: 8px;
+	        width: 100px;
+	        height: 40px;
+	        position: relative;
+	        display: block;
+	        margin: 0 auto;
+	        border: 0;
+	        color: #fff;
+	        font-size: 14px;
+            font: Verdana;
+            margin-top: 30%;
+		}

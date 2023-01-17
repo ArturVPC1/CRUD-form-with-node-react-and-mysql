@@ -1,0 +1,14 @@
+import './styles/botao.css';
+
+function botao(){
+        return(
+            <div>
+                <p>Entrar</p>
+                
+                <button onclick="window.location.href='http://localhost:3000'" class="orange-button">
+                    Entrar
+                </button>
+            </div>
+        )
+}
+export default botao
